@@ -217,7 +217,6 @@ Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Left.uasset
 Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Fwd_Right.uasset
 Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Left.uasset
 Content/Characters/Mannequins/Anims/Rifle/Walk/MF_Rifle_Walk_Right.uasset
-Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset
 Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_01.uasset
 Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_02.uasset
 Content/Characters/Mannequins/Anims/Unarmed/Attack/MM_Attack_03.uasset
@@ -308,3 +307,8 @@ Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/W4/C84CJJOTBXWEDZDEE1OY
 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/0H/7I9P5OTL3HT74LQVAZO1JL.uasset
 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/J2/GUYR5R5LEJIXE4Q7S2BDBL.uasset
 Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/KQ/V4AYYCU7K75UT16S6KVXXO.uasset
+Content/Characters/.DS_Store
+Content/Characters/Mannequins/.DS_Store
+Content/Characters/Mannequins/Anims/.DS_Store
+Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/0D/QDDLUL7RCJUH5P7K1EZWTW.uasset
+Content/ThirdPerson/.DS_Store
